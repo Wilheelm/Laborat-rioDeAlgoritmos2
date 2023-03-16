@@ -1,1 +1,1 @@
-# Laborat-rioDeAlgoritmos2
+# LaboratórioDeAlgoritmos2
